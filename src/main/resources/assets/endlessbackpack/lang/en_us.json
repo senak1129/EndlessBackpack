@@ -1,0 +1,6 @@
+{
+  "item.endlessbackpack.backpack": "Endless Backpack",
+  "container.endlessbackpack.title": "Endless Backpack",
+  "tooltip.endlessbackpack.capacity": "Used slots: %s / %s",
+  "tooltip.endlessbackpack.hint": "%s pages - scroll or click the arrows to browse"
+}

@@ -1,0 +1,19 @@
+WARNING: A restricted method in java.lang.System has been called
+WARNING: java.lang.System::load has been called by net.rubygrapefruit.platform.internal.NativeLibraryLoader in an unnamed module (file:/C:/Users/senak/.gradle/wrapper/dists/gradle-8.14.2-bin/2pb3mgt1p815evrl3weanttgr/gradle-8.14.2/lib/native-platform-0.22-milestone-28.jar)
+WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+
+To honour the JVM settings for this build a single-use Daemon process will be forked. For more on this, please refer to https://docs.gradle.org/8.14.2/userguide/gradle_daemon.html#sec:disabling_the_daemon in the Gradle documentation.
+Daemon will be stopped at the end of the build 
+> Task :cacheVersionManifest1.21.1
+> Task :cacheVersionExecutableClient1.21.1
+> Task :cacheVersionExecutableServer1.21.1
+> Task :cacheVersionMappingsClient1.21.1
+> Task :cacheVersionMappingsServer1.21.1
+> Task :neoFormListLibraries
+> Task :neoFormStripClient
+> Task :neoFormExtractServer
+> Task :neoFormStripServer
+> Task :neoFormMerge
+> Task :neoFormMergeMappings
+> Task :neoFormRename

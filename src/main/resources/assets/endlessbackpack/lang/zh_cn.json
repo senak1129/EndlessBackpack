@@ -1,0 +1,6 @@
+{
+  "item.endlessbackpack.backpack": "无尽背包",
+  "container.endlessbackpack.title": "无尽背包",
+  "tooltip.endlessbackpack.capacity": "已用格数：%s / %s",
+  "tooltip.endlessbackpack.hint": "共 %s 页 · 滚轮或点击箭头翻页"
+}

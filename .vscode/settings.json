@@ -1,0 +1,17 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.import.gradle.enabled": true,
+  "java.import.gradle.wrapper.enabled": true,
+  "java.import.gradle.annotationProcessing.enabled": true,
+  "java.jdt.ls.vmargs": "-XX:+UseParallelGC -Xmx2G",
+  "files.exclude": {
+    "**/.gradle": true,
+    "**/build": true,
+    "**/runs": true
+  },
+  "search.exclude": {
+    "**/.gradle": true,
+    "**/build": true,
+    "**/runs": true
+  }
+}
